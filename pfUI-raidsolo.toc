@@ -1,0 +1,9 @@
+## Interface: 11200
+## Title: |cff33ffccpf|cffffffffUI|cffaaaaaa [Raid Solo]
+## Author: Gio (Gios-Elysium)
+## Notes: Show raid when you play Solo
+## Version: 1.0
+## Dependencies: pfUI
+
+# main
+pfUI-raidsolo.lua
